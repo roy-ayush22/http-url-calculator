@@ -10,5 +10,5 @@ This is a simple mini-project that evaluates mathematical expressions passed via
 
 - clone the repository <code>git clone https://github.com/roy-ayush22/http-url-calculator.git</code>
 - install the dependencies run <code>npm install express</code> in cmd
-- run <code>node index.js in cmd</code>
+- run <code>node index.js</code> in cmd
 - paste the following url in any browser http://localhost:3000/mul?a=integer&b=integer
